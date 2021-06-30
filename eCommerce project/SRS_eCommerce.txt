@@ -1,0 +1,25 @@
+Requirements Elicitation and Analysis
+-------------------------------------
+SRS (Software Requirements Specification Document)
+-------------------------------------
+1. The Login page will ask for USERNAME and PASSWORD combination which will be verified before the user is allowed to enter the website.
+2. The Sign Up form will contain EMAIL, USERNAME and PASSWORD fields,all of which are compulsory to enter.
+3. The user should be able to view the products as a list. It should display the product IMAGE, NAME, CATEGORY and a small DESCRIPTION. 
+The user should be able to CLICK on the product to view full details.
+4. This page displays ALL DETAILS OF A PRODUCT.
+Details: IMAGE, NAME, CATEGORY, SUBCATEGORY, PRICE, UNITS, DESCRITION
+5. The user should be allowed to add a product to the cart from the Details Page.
+6. The user can view all the products that they've added along with the total price of the entire order.
+7. The order will be processed after the user makes the payment sucessfully. 
+
+
+------------------------------------------------------------------------------------
+Ideal : The signup form will contain USER BIRTHDATE FIELD which will be in the format DD-MM-YYYY and it is compulsory for the user to fill.
+
+Key Requirements in Documentation
+---------------------------------
+#01 Functional Requirements - requirements that has specific function(e.g click to enter button,etc)
+#02 Non-Functional Requirements - requiements that are necessary but doesn't have function(e.g DD-MM-YYYY format is a reqirement to be provided
+    in the correct order bit it doesn't have any functionality)
+#03 Stakeholder Requirements - requirements for people behind the backround process(e.g in eCommerce website, for the payment method the Credit/Debit
+    card credentials are necessay for the people who process the payment)  
