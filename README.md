@@ -1,3 +1,3 @@
 # Python
 ### MY CODES
-These files are made only for the course that I'm pursuing in MyCaptain.
+This repository contains codes for all the small projects that i do while learning python
